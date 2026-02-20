@@ -57,6 +57,3 @@ egg-party-game/
 
 ---
 **开始游玩**：打开 `index.html` 文件或部署到服务器！
-=======
-# egg-party-game
-蛋仔乐园 - HTML5小游戏
